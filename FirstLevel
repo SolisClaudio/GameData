@@ -1,0 +1,103 @@
+{
+
+  "domestic_issues": [
+
+    {
+
+      "name": "Refrigerador averiado",
+
+      "category": "Problema con aparato",
+
+      "image": "link_a_imagen_refrigerador",
+
+      "description": "El refrigerador dejó de enfriar correctamente, generando mal olor y alimentos en mal estado.",
+
+      "danger": "Puede causar intoxicación alimentaria si los alimentos se descomponen.",
+
+      "solution": "Revisar el compresor y, si es necesario, llamar a un técnico especializado."
+
+    },
+
+    {
+
+      "name": "Infestación de cucarachas",
+
+      "category": "Plagas",
+
+      "image": "https://www.gardentech.com/-/media/project/oneweb/gardentech/images/pest-id/bug-pest/cockroach.png",
+
+      "description": "Cucarachas en la cocina y otras áreas, propagando bacterias en el hogar.",
+
+      "danger": "Riesgo de enfermedades como salmonella por contaminación de alimentos.",
+
+      "solution": "Usar insecticidas específicos o contratar un servicio de fumigación profesional."
+
+    },
+
+    {
+
+      "name": "Luces parpadeantes y ruidos extraños",
+
+      "category": "Actividad paranormal",
+
+      "image": "link_a_imagen_actividad_paranormal",
+
+      "description": "Las luces parpadean solas y se escuchan ruidos inexplicables en la casa.",
+
+      "danger": "Puede causar estrés y miedo en los habitantes de la casa.",
+
+      "solution": "Investigar la causa o contactar a un experto en fenómenos paranormales."
+
+    },
+
+    {
+
+      "name": "Fugas de gas",
+
+      "category": "Problema con aparato",
+
+      "image": "link_a_imagen_fuga_gas",
+
+      "description": "Olor a gas en la cocina, lo que indica una posible fuga peligrosa.",
+
+      "danger": "Puede causar intoxicación o explosiones si no se maneja adecuadamente.",
+
+      "solution": "Cerrar el suministro de gas y llamar de inmediato a un técnico calificado."
+
+    },
+
+    {
+
+      "name": "Ratones en el sótano",
+
+      "category": "Plagas",
+
+      "image": "link_a_imagen_ratones",
+
+      "description": "Ratones en el sótano que dañan muebles y contaminan alimentos.",
+
+      "danger": "Pueden propagar enfermedades y causar daños materiales.",
+
+      "solution": "Usar trampas para ratones o llamar a un servicio de control de plagas."
+
+    },
+
+    {
+
+      "name": "Sombras en la noche",
+
+      "category": "Actividad paranormal",
+
+      "image": "link_a_imagen_sombras",
+
+      "description": "Sombras misteriosas que se ven en la casa durante la noche sin explicación.",
+
+      "danger": "Genera ansiedad y afecta el sueño de los habitantes.",
+
+      "solution": "Considerar alternativas de protección espiritual o buscar asesoramiento especializado."
+
+    }
+
+  ]
+
+}
