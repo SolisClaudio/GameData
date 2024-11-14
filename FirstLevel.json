@@ -1,103 +1,46 @@
 {
 
   "domestic_issues": [
-
-    {
-
-      "name": "Refrigerador averiado",
-
-      "category": "Problema con aparato",
-
-      "image": "link_a_imagen_refrigerador",
-
-      "description": "El refrigerador dejó de enfriar correctamente, generando mal olor y alimentos en mal estado.",
-
-      "danger": "Puede causar intoxicación alimentaria si los alimentos se descomponen.",
-
-      "solution": "Revisar el compresor y, si es necesario, llamar a un técnico especializado."
-
-    },
-
-    {
-
-      "name": "Infestación de cucarachas",
-
-      "category": "Plagas",
-
-      "image": "https://www.gardentech.com/-/media/project/oneweb/gardentech/images/pest-id/bug-pest/cockroach.png",
-
-      "description": "AAAAAAAAAAAAAAAAAAAAACucarachas en la cocina y otras áreas, propagando bacterias en el hogar.",
-
-      "danger": "Riesgo de enfermedades como salmonella por contaminación de alimentos.",
-
-      "solution": "Usar insecticidas específicos o contratar un servicio de fumigación profesional."
-
-    },
-
-    {
-
-      "name": "Luces parpadeantes y ruidos extraños",
-
-      "category": "Actividad paranormal",
-
-      "image": "link_a_imagen_actividad_paranormal",
-
-      "description": "Las luces parpadean solas y se escuchan ruidos inexplicables en la casa.",
-
-      "danger": "Puede causar estrés y miedo en los habitantes de la casa.",
-
-      "solution": "Investigar la causa o contactar a un experto en fenómenos paranormales."
-
-    },
-
-    {
-
-      "name": "Fugas de gas",
-
-      "category": "Problema con aparato",
-
-      "image": "link_a_imagen_fuga_gas",
-
-      "description": "Olor a gas en la cocina, lo que indica una posible fuga peligrosa.",
-
-      "danger": "Puede causar intoxicación o explosiones si no se maneja adecuadamente.",
-
-      "solution": "Cerrar el suministro de gas y llamar de inmediato a un técnico calificado."
-
-    },
-
-    {
-
-      "name": "Ratones en el sótano",
-
-      "category": "Plagas",
-
-      "image": "link_a_imagen_ratones",
-
-      "description": "Ratones en el sótano que dañan muebles y contaminan alimentos.",
-
-      "danger": "Pueden propagar enfermedades y causar daños materiales.",
-
-      "solution": "Usar trampas para ratones o llamar a un servicio de control de plagas."
-
-    },
-
-    {
-
-      "name": "Sombras en la noche",
-
-      "category": "Actividad paranormal",
-
-      "image": "link_a_imagen_sombras",
-
-      "description": "Sombras misteriosas que se ven en la casa durante la noche sin explicación.",
-
-      "danger": "Genera ansiedad y afecta el sueño de los habitantes.",
-
-      "solution": "Considerar alternativas de protección espiritual o buscar asesoramiento especializado."
-
-    }
-
-  ]
+  {
+    "name": "Clogged Drain",
+    "category": "Plumbing",
+    "image": "[image removed]",
+    "description": "A slow-moving or completely blocked drain, often caused by hair, soap, or food debris.",
+    "danger": "Clogged drains can lead to water damage, mold growth, and unpleasant odors.",
+    "solution": "Try using a plunger or a drain snake to clear the blockage. For stubborn clogs, you may need to use a chemical drain cleaner or call a plumber."
+  },
+  {
+    "name": "Faulty Electrical Outlet",
+    "category": "Electrical",
+    "image": "[image removed]",
+    "description": "An electrical outlet that is not working properly, may spark, or is loose.",
+    "danger": "Faulty outlets can cause electrical shocks, fires, and damage to electronic devices.",
+    "solution": "If you are not comfortable working with electricity, call a qualified electrician. Otherwise, turn off the power to the outlet and inspect for loose wires or damage."
+  },
+  {
+    "name": "Leaky Faucet",
+    "category": "Plumbing",
+    "image": "[image removed]",
+    "description": "A faucet that drips water continuously or when turned off.",
+    "danger": "Leaky faucets can waste water and increase your water bill. They can also lead to water damage over time.",
+    "solution": "You may be able to fix a leaky faucet by replacing the washer or O-ring. If you cannot fix it yourself, call a plumber."
+  },
+  {
+    "name": "Broken Appliance",
+    "category": "Appliances",
+    "image": "[image removed]",
+    "description": "A household appliance that is not working as it should, such as a refrigerator, stove, or washing machine.",
+    "danger": "Broken appliances can cause inconvenience and potential safety hazards, such as electrical fires or gas leaks.",
+    "solution": "Try troubleshooting the appliance yourself or consult the owner's manual. If you cannot fix the problem, contact a repair technician."
+  },
+  {
+    "name": "Pest Infestation",
+    "category": "Pest Control",
+    "image": "[image removed]",
+    "description": "The presence of unwanted pests, such as ants, cockroaches, or rodents, in your home.",
+    "danger": "Pest infestations can cause damage to your home, spread diseases, and create unsanitary conditions.",
+    "solution": "Identify the type of pest and take appropriate action, such as using traps, baits, or insecticides. For severe infestations, contact a professional pest control service."
+  }
+]
 
 }
