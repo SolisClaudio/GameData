@@ -1,0 +1,32 @@
+[
+  {
+    "mensaje": "Se detectó actividad en el área designada.",
+    "senderName": "Carlos Mendoza",
+    "PestName": "Cucaracha",
+    "ProfileImageUrl": "https://example.com/profiles/carlos.jpg"
+  },
+  {
+    "mensaje": "Informe de presencia: plaga identificada.",
+    "senderName": "Lucía Pérez",
+    "PestName": "Termitas",
+    "ProfileImageUrl": "https://example.com/profiles/lucia.jpg"
+  },
+  {
+    "mensaje": "Zona inspeccionada, ninguna plaga detectada.",
+    "senderName": "Miguel Gómez",
+    "PestName": "Ninguna",
+    "ProfileImageUrl": "https://example.com/profiles/miguel.jpg"
+  },
+  {
+    "mensaje": "Se requiere tratamiento inmediato en el sitio.",
+    "senderName": "Ana Torres",
+    "PestName": "Ratas",
+    "ProfileImageUrl": "https://example.com/profiles/ana.jpg"
+  },
+  {
+    "mensaje": "Se aplicó tratamiento preventivo.",
+    "senderName": "Javier Rodríguez",
+    "PestName": "Mosquitos",
+    "ProfileImageUrl": "https://example.com/profiles/javier.jpg"
+  }
+]
