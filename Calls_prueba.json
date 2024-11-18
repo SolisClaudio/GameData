@@ -1,31 +1,31 @@
 {
   "calls" : [
     {
-      "mensaje": "Se detectó actividad en el área designada.",
+      "message": "Se detectó actividad en el área designada.",
       "senderName": "Carlos Mendoza",
       "PestName": "Cucaracha",
       "ProfileImageUrl": "https://media.airedesantafe.com.ar/p/a84d37f5686bc55cbc10e581b880421c/adjuntos/268/imagenes/003/809/0003809782/412x232/smart/presiduendepng.png"
     },
     {
-      "mensaje": "Informe de presencia: plaga identificada.",
+      "message": "Informe de presencia: plaga identificada.",
       "senderName": "Lucía Pérez",
       "PestName": "Termitas",
       "ProfileImageUrl": "https://media.airedesantafe.com.ar/p/a84d37f5686bc55cbc10e581b880421c/adjuntos/268/imagenes/003/809/0003809782/412x232/smart/presiduendepng.png"
     },
     {
-      "mensaje": "Zona inspeccionada, ninguna plaga detectada.",
+      "message": "Zona inspeccionada, ninguna plaga detectada.",
       "senderName": "Miguel Gómez",
       "PestName": "Ninguna",
       "ProfileImageUrl": "https://media.airedesantafe.com.ar/p/a84d37f5686bc55cbc10e581b880421c/adjuntos/268/imagenes/003/809/0003809782/412x232/smart/presiduendepng.png"
     },
     {
-      "mensaje": "Se requiere tratamiento inmediato en el sitio.",
+      "message": "Se requiere tratamiento inmediato en el sitio.",
       "senderName": "Ana Torres",
       "PestName": "Ratas",
       "ProfileImageUrl": "https://media.airedesantafe.com.ar/p/a84d37f5686bc55cbc10e581b880421c/adjuntos/268/imagenes/003/809/0003809782/412x232/smart/presiduendepng.png"
     },
     {
-      "mensaje": "Se aplicó tratamiento preventivo.",
+      "message": "Se aplicó tratamiento preventivo.",
       "senderName": "Javier Rodríguez",
       "PestName": "Mosquitos",
       "ProfileImageUrl": "https://media.airedesantafe.com.ar/p/a84d37f5686bc55cbc10e581b880421c/adjuntos/268/imagenes/003/809/0003809782/412x232/smart/presiduendepng.png"
