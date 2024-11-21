@@ -10,36 +10,36 @@
     "solution": "To control mice, inspect and seal any cracks or holes in the home using caulk or steel grates, store food in airtight containers and clean up crumbs regularly. Place mechanical or glue traps near walls where mice roam and, if the infestation persists, contact a professional exterminator for a comprehensive solution."
   },
   {
-    "name": "Faulty Electrical Outlet",
-    "category": "Electrical",
-    "image": "[image removed]",
-    "description": "An electrical outlet that is not working properly, may spark, or is loose.",
-    "danger": "Faulty outlets can cause electrical shocks, fires, and damage to electronic devices.",
-    "solution": "If you are not comfortable working with electricity, call a qualified electrician. Otherwise, turn off the power to the outlet and inspect for loose wires or damage."
+    "name": "Giant Spiders",
+    "category": "Common",
+    "image": "https://www.thoughtco.com/thmb/zySOPJT1sm1kIbjgp2Lz8nLg2W8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/close-up-of-spider-on-hand-699166199-5b42059bc9e77c0037034a69.jpg",
+    "description": "Giant spiders are creatures that inhabit dark, damp corners of the house. These creatures often hide behind furniture and in basements, spinning large webs. Residents often find them due to scratching sounds or discovering webs that were not there before. Their presence causes discomfort and fear, and it is common for them to generate a feeling of being watched.",
+    "danger": "Although giant spiders rarely attack humans, their size and defensive behavior can be intimidating. In some cases, their bites may cause an allergic reaction, especially in people sensitive to poisons. In addition, their webs attract other insects and can create dust accumulation in the home.",
+    "solution": "To keep these creatures at bay, it is recommended to keep dark areas of the house well lit and clean corners frequently. In the event of an infestation, professional extermination services are recommended, as giant spiders are resistant to common pesticides."
   },
   {
-    "name": "Leaky Faucet",
-    "category": "Plumbing",
-    "image": "[image removed]",
-    "description": "A faucet that drips water continuously or when turned off.",
-    "danger": "Leaky faucets can waste water and increase your water bill. They can also lead to water damage over time.",
-    "solution": "You may be able to fix a leaky faucet by replacing the washer or O-ring. If you cannot fix it yourself, call a plumber."
+    "name": "Termites",
+    "category": "Common",
+    "image": "https://www.termitespecialist.com.au/wp-content/uploads/2024/03/shutterstock_329161523-scaled.jpg",
+    "description": "Termites are social insects that work in colonies, feeding primarily on cellulose, which is found in wood. They can go unnoticed for months, as they often begin their damage from inside wood structures. Common signs include mud tunnels in walls, hollow wood when tapped, and the presence of winged termites (swarmers) near windows or doors.",
+    "danger": "If not detected in time, termites can compromise the stability of furniture, beams, door frames and other wooden structures. Not only does this cost a lot of money in repairs, but it also puts the safety of the home's occupants at risk.",
+    "solution": "Conduct periodic visual inspections for signs such as mud tunnels and hollow wood, apply repellent products on wood bases and use physical barriers on foundations. Set up baited stations to control colonies and, in the event of an active infestation, contact professionals who employ methods such as fumigation or heat treatments."
   },
   {
-    "name": "Broken Appliance",
-    "category": "Appliances",
-    "image": "[image removed]",
-    "description": "A household appliance that is not working as it should, such as a refrigerator, stove, or washing machine.",
-    "danger": "Broken appliances can cause inconvenience and potential safety hazards, such as electrical fires or gas leaks.",
-    "solution": "Try troubleshooting the appliance yourself or consult the owner's manual. If you cannot fix the problem, contact a repair technician."
+    "name": "Cockroaches",
+    "category": "Common",
+    "image": "https://lirp.cdn-website.com/c2a5a1a4/dms3rep/multi/opt/stock-1920w.jpg",
+    "description": "Cockroaches are nocturnal insects that usually inhabit kitchens, bathrooms and basements, feeding on food scraps, paper, cardboard and garbage. They can survive in extreme conditions and reproduce rapidly, making them difficult to control.",
+    "danger": "They pose a serious threat to human health by spreading bacteria, viruses and allergens. Their presence can cause diseases such as salmonellosis, gastrointestinal infections and respiratory allergies due to their droppings and molted skin.",
+    "solution": "To eliminate cockroaches, meticulously clean kitchen and bathroom areas to remove food debris and moisture. Seal cracks and holes in walls, floors and furniture, place glue traps and apply gel baits in strategic areas. If the infestation is severe, hire a professional fumigation service to ensure complete eradication."
   },
   {
-    "name": "Pest Infestation",
-    "category": "Pest Control",
-    "image": "[image removed]",
-    "description": "The presence of unwanted pests, such as ants, cockroaches, or rodents, in your home.",
-    "danger": "Pest infestations can cause damage to your home, spread diseases, and create unsanitary conditions.",
-    "solution": "Identify the type of pest and take appropriate action, such as using traps, baits, or insecticides. For severe infestations, contact a professional pest control service."
+    "name": "Mold",
+    "category": "Common",
+    "image": "https://tn.com.ar/resizer/v2/como-eliminar-el-moho-de-las-paredes-con-un-simple-ingrediente-de-cocina-segun-un-arquitecto-WCPNIZ55VZB3TPGXVIAUSY22V4.png?auth=40a36f5278c031f41e20422cefa2c50a3c6494e03a692f40790261c31814a581&width=767",
+    "description": "Mold is a type of fungus that grows in damp, warm, poorly ventilated areas inside the home. It usually appears in bathrooms, kitchens, basements and leaky roofs, manifesting as black, green or white spots accompanied by a distinctive musty odor.",
+    "danger": "Exposure to mold can cause respiratory problems such as asthma, allergies, eye and skin irritation, and, in severe cases, lung infections, especially in people with weakened immune systems. In addition, mold can weaken household structures and damage furniture or clothing exposed to prolonged mold growth.",
+    "solution": "Clean affected areas with a solution of water and vinegar or bleach. Improve home ventilation by installing exhaust fans or opening windows regularly, repair water leaks in roofs and pipes, and use dehumidifiers to reduce humidity. If mold has infested large or structural areas, contact mold removal specialists to avoid complications and ensure proper remediation."
   }
 ]
 
