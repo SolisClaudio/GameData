@@ -2,12 +2,12 @@
 
   "domestic_issues": [
   {
-    "name": "Clogged Drain",
-    "category": "Plumbing",
-    "image": "https://myguysnow.com/wp-content/uploads/2019/08/clogged-drain_1.jpeg",
-    "description": "A slow-moving or completely blocked drain, often caused by hair, soap, or food debris.",
-    "danger": "Clogged drains can lead to water damage, mold growth, and unpleasant odors.",
-    "solution": "Try using a plunger or a drain snake to clear the blockage. For stubborn clogs, you may need to use a chemical drain cleaner or call a plumber."
+    "name": "Mice",
+    "category": "Common",
+    "image": "https://www.cropsmart.com.au/wp-content/uploads/2019/06/Mice-800x400.jpg",
+    "description": "Mice are small rodents that infiltrate homes looking for food, water and shelter. They are nocturnal, so it is common to find them active during the night. They often leave traces such as feces, footprints or gnaw marks on walls, furniture and stored food. They are also extremely agile, capable of squeezing through spaces as small as the diameter of a pencil.",
+    "danger": "Mice not only damage materials such as wood and electrical wiring, but also carry serious diseases such as hantavirus, salmonellosis and leptospirosis. Their droppings and urine can contaminate food and preparation surfaces. In addition, gnawed cables pose a risk of short circuits and fires.",
+    "solution": "To control mice, inspect and seal any cracks or holes in the home using caulk or steel grates, store food in airtight containers and clean up crumbs regularly. Place mechanical or glue traps near walls where mice roam and, if the infestation persists, contact a professional exterminator for a comprehensive solution."
   },
   {
     "name": "Faulty Electrical Outlet",
