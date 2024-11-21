@@ -4,31 +4,31 @@
       "positiveReply":  
         {
           "message": "todo Bien",
-          "ProfileImageUrl" : "https://media.airedesantafe.com.ar/p/a84d37f5686bc55cbc10e581b880421c/adjuntos/268/imagenes/003/809/0003809782/412x232/smart/presiduendepng.png",
-          "senderName" : "Carlos Mendoza",
+          "ProfileImageUrl" : "https://randomuser.me/api/portraits/women/82.jpg",
+          "senderName" : "Grace Johnson",
          },
       "negativeReply":
         {
-          "message": "todo Bien",
-          "ProfileImageUrl" : "https://media.airedesantafe.com.ar/p/a84d37f5686bc55cbc10e581b880421c/adjuntos/268/imagenes/003/809/0003809782/412x232/smart/presiduendepng.png",
-          "senderName" : "Carlos Mendoza",
+          "message": "todo MAL",
+          "ProfileImageUrl" : "https://randomuser.me/api/portraits/women/82.jpg",
+          "senderName" : "Grace Johnson",
          },
-      "message": "Se detectó actividad en el área designada.",
-      "senderName": "Carlos Mendoza",
-      "PestName": "Cucaracha",
-      "ProfileImageUrl": "https://media.airedesantafe.com.ar/p/a84d37f5686bc55cbc10e581b880421c/adjuntos/268/imagenes/003/809/0003809782/412x232/smart/presiduendepng.png"
+      "message": "Hello, good morning. My name is Grace Johnson, and I am leaving this message because I have noticed something disturbing in my house. During the nights, I hear noises like something scratching inside the walls, especially in the kitchen. This morning I found small black pellets in the pantry and a nibbled cereal packet. There is also a strange smell near the cabinets, like something rancid. Please, I need guidance on what to do before this gets worse. Thank you.",
+      "senderName": "Grace Johnson",
+      "PestName": "Mice",
+      "ProfileImageUrl": "https://randomuser.me/api/portraits/women/82.jpg"
     },
     {
-      "message": "Informe de presencia: plaga identificada.",
-      "senderName": "Lucía Pérez",
-      "PestName": "Termitas",
-      "ProfileImageUrl": "https://media.airedesantafe.com.ar/p/a84d37f5686bc55cbc10e581b880421c/adjuntos/268/imagenes/003/809/0003809782/412x232/smart/presiduendepng.png"
+      "message": "Hi, I'm Ricardo Lopez, and I wanted to report something strange that I've noticed in my house. Every time I turn on the kitchen light at night, I see something small and fast running towards the corners or under the sink. I have also found food scraps with small holes and an unpleasant smell near the garbage disposal. I don't know how to get rid of them, and they seem to be increasing. I hope you can help me. Thank you.",
+      "senderName": "Ricardo Lopez",
+      "PestName": "Cockroaches",
+      "ProfileImageUrl": "https://randomuser.me/api/portraits/men/37.jpg"
     },
     {
-      "message": "Zona inspeccionada, ninguna plaga detectada.",
-      "senderName": "Miguel Gómez",
-      "PestName": "Ninguna",
-      "ProfileImageUrl": "https://media.airedesantafe.com.ar/p/a84d37f5686bc55cbc10e581b880421c/adjuntos/268/imagenes/003/809/0003809782/412x232/smart/presiduendepng.png"
+      "message": "Hi, I'm Clara Martinez. I'm concerned because I discovered small specks of dust near my door and window frames. Upon closer inspection, I noticed that the wood looks like it is hollow in some places, and there are some tiny tunnels in the walls. I also saw small winged insects near the lights a couple of days ago. Please, I need guidance to resolve this before it gets worse.",
+      "senderName": "Clara Martinez",
+      "PestName": "Termites",
+      "ProfileImageUrl": "https://randomuser.me/api/portraits/women/41.jpg"
     },
     {
       "message": "Se requiere tratamiento inmediato en el sitio.",
