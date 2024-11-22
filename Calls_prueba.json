@@ -1,24 +1,6 @@
 {
   "calls" : [
     {
-      "positiveReply":  
-        {
-          "message": "todo Bien",
-          "ProfileImageUrl" : "https://randomuser.me/api/portraits/women/82.jpg",
-          "senderName" : "Grace Johnson",
-         },
-      "negativeReply":
-        {
-          "message": "todo MAL",
-          "ProfileImageUrl" : "https://randomuser.me/api/portraits/women/82.jpg",
-          "senderName" : "Grace Johnson",
-         },
-      "message": "Hello, good morning. My name is Grace Johnson, and I am leaving this message because I have noticed something disturbing in my house. During the nights, I hear noises like something scratching inside the walls, especially in the kitchen. This morning I found small black pellets in the pantry and a nibbled cereal packet. There is also a strange smell near the cabinets, like something rancid. Please, I need guidance on what to do before this gets worse. Thank you.",
-      "senderName": "Grace Johnson",
-      "PestName": "Mice",
-      "ProfileImageUrl": "https://randomuser.me/api/portraits/women/82.jpg"
-    },
-    {
       "message": "Hi, I'm Ricardo Lopez, and I wanted to report something strange that I've noticed in my house. Every time I turn on the kitchen light at night, I see something small and fast running towards the corners or under the sink. I have also found food scraps with small holes and an unpleasant smell near the garbage disposal. I don't know how to get rid of them, and they seem to be increasing. I hope you can help me. Thank you.",
       "senderName": "Ricardo Lopez",
       "PestName": "Cockroaches",
