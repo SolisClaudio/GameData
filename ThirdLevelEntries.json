@@ -1,0 +1,46 @@
+{
+
+  "domestic_issues": [
+  {
+    "name": "Disloyal Shadows",
+    "category": "Special",
+    "image": "https://www.ferreteriasuprema.com/cdn/shop/products/SENALDEADVERTENCIAFUERADESERVICIO_2_2048x2048.jpg?v=1615472897",
+    "description": "Disloyal shadows are mysterious entities that detach themselves from the people they belong to and acquire a will of their own. These shadows seem to have a mischievous mind, causing problems by sabotaging daily activities or generating chaos in the home. Their furtive movements make them almost impossible to detect with the naked eye, and their unpredictable behavior creates an unsettling atmosphere. Although they are not physically harmful, their ability to act as an evil double of their owners makes them a psychological threat.",
+    "danger": "Disloyal shadows have the frightening ability to separate from their owners and act independently. These shadows cause problems by sabotaging household appliances, moving important objects to hidden locations, and frightening inhabitants with unexpected movements. In extreme cases, they can merge with other shadows, growing in size and strength, making them more difficult to control. Their constant presence generates paranoia in residents, who feel they are being watched or persecuted within their own home.",
+    "solution": "To regain control, use a pure light reflector that draws the shadows back to their original owners, reintegrating them. You can also use shadow dust, a special magical ingredient that neutralizes their independence. If the problem persists, it is recommended to perform a shadow binding ritual using an enchanted mirror to permanently seal their allegiance."
+  },
+  {
+    "name": "Unstable Temporalitas",
+    "category": "Special",
+    "image": "https://www.ferreteriasuprema.com/cdn/shop/products/SENALDEADVERTENCIAFUERADESERVICIO_2_2048x2048.jpg?v=1615472897",
+    "description": "These time-related creatures are incorporeal, appearing as undulating distortions in the air. Wherever they are, the flow of time is altered, causing clocks and calendars to lose accuracy. Sometimes they manifest as nebulous humanoid figures that seem to glide rapidly between rooms. Their presence is often accompanied by a low humming sound, indicating a fluctuation in the timeline. These entities have a direct connection to temporal anomalies, making them both a dangerous and fascinating enigma.",
+    "danger": "These time-related entities are extremely dangerous because they can alter the perception of time within the home. They can speed up or slow down time in specific rooms, causing chaos in daily routines. Residents can become trapped in time loops, repeating actions without realizing it, affecting their productivity and mental health. In addition, their prolonged presence can destabilize clocks and electrical systems, causing irreversible damage to home technology.",
+    "solution": "The only way to deal with them is to use a Chrono-Clock Stabilizer, a device that synchronizes the flow of time throughout the home. To keep them from returning, install temporary barriers at the main entrances of the house, which automatically repel them. If they have already caused severe damage, a Temporary Reset can reverse the effects in the affected space."
+  },
+  {
+    "name": "Infinity Mirrors",
+    "category": "Special",
+    "image": "https://www.ferreteriasuprema.com/cdn/shop/products/SENALDEADVERTENCIAFUERADESERVICIO_2_2048x2048.jpg?v=1615472897",
+    "description": "Infinity mirrors are not simple home decorations, but portals to other parallel dimensions. At first glance, they look like ordinary mirrors, but on closer inspection, one may notice that the reflection acts independently or shows alternate versions of the environment. These mirrors are both mystical objects and dangerous traps. Once activated, they can influence the inhabitants of the house, luring them with visions of alternate worlds or showing altered versions of themselves that convince them to make irrational decisions.",
+    "danger": "These special mirrors are portals to parallel dimensions, but with a sinister twist: they reflect alternate, hostile versions of the residents. The reflections can emerge from the mirror and wreak havoc, such as confusing the inhabitants, temporarily supplanting them, or even making destructive decisions that affect the stability of the household. In addition, the infinite mirrors generate a hypnotic effect that can trap the curious inside, leaving them lost in an endless web of alternate dimensions.",
+    "solution": "To deal with them, use a dimensional hammer to break the mirrors without releasing the trapped reflections. It is also possible to apply a magical opaque film over the mirror surface, sealing the portal securely. If a reflection has already escaped, it can be trapped with a Reality Cage, an artifact that forces it to return to its dimension of origin."
+  },
+  {
+    "name": "Changing Wallpaper",
+    "category": "Special",
+    "image": "https://www.ferreteriasuprema.com/cdn/shop/products/SENALDEADVERTENCIAFUERADESERVICIO_2_2048x2048.jpg?v=1615472897",
+    "description": "Changing wallpaper has a stylish and eye-catching design, but hides a dangerous nature. Seemingly harmless, this paper slowly begins to mutate, redrawing patterns, colors and textures of the walls. Over time, it develops the ability to alter the structure of the physical space, creating false doors, staircases that lead nowhere and impossible rooms. Its effects may be deceptively subtle at first, but as its expansion progresses, the home becomes a labyrinthine and alienating place.",
+    "danger": "Changing wallpaper seems harmless at first, but slowly transforms rooms into chaotic, unrecognizable spaces. It can alter the design of furniture, change wall colors to confuse inhabitants, or even create false corridors that lead to traps. In addition, some more advanced roles generate illusions of valuable objects or doors that do not exist, luring residents into dangerous situations. If left unchecked, it can spread throughout the house, turning it into a terrifying labyrinth.",
+    "solution": "The only way to stop its expansion is to use a magic wall scraper that safely removes the paper. To prevent its regeneration, apply an anti-illusion paint that blocks any attempt to modify it. In severe cases, it may be necessary to summon a magical design expert to seal the affected room and prevent the spread."
+  },
+  {
+    "name": "Crystal Spiders",
+    "category": "Special",
+    "image": "https://www.ferreteriasuprema.com/cdn/shop/products/SENALDEADVERTENCIAFUERADESERVICIO_2_2048x2048.jpg?v=1615472897",
+    "description": "Crystal spiders are delicate, shiny creatures that appear to be made of polished glass. Although fascinating in appearance, these spiders are extremely fragile and dangerous. They walk silently with razor-sharp legs, leaving tiny cracks in the objects they touch. They often build nests of transparent, glowing threads, which are difficult to detect but potentially dangerous on contact. Their attraction to light leads them to congregate in lamps, windows and light bulbs, creating an atmosphere both beautiful and sinister.",
+    "danger": "Although beautiful to look at, crystal spiders pose a great threat. With their sharp legs, they can cut electrical wires and cause power outages in the home. In addition, these creatures are attracted to light sources, leading them to destroy light bulbs, lamps and windows. Their nests, made of ultra-thin glass threads, are extremely dangerous, as they can cause serious injuries if someone accidentally touches them. Their fragile nature makes them harder to detect, but also means that any contact can cause a burst of dangerous fragments.",
+    "solution": "To combat them, use a sonic device that emits vibrations to attract them to a single location, where they can be captured with a reinforced net. Anti-cutting gloves are essential to handle their nests safely. Finally, it is recommended to illuminate the house with anti-glazing LED lights, which do not attract them and create a hostile environment for their survival."
+  }
+]
+
+}
