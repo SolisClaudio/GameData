@@ -58,13 +58,13 @@
     {
       "negativeReply": {
         "message": "You are wrong!",
-        "ProfileImageUrl": "https://randomuser.me/api/portraits/men/56.jpg",
-        "senderName": "Tomas Fernandez"
+        "ProfileImageUrl" : "https://randomuser.me/api/portraits/women/40.jpg",
+        "senderName" : "Marta Gonzalez",
       },
-      "message": "Hi, I'm Tomas Fernandez. I've been noticing a lot of buzzing sounds near the windows and some yellow and black insects flying around my garden. Upon checking, I found a small group of them going in and out of a hole in the side of my house. I'm worried they might sting someone, and I don't know how to handle this safely. Please help!",
-      "senderName": "Tomas Fernandez",
-      "PestName": "Bees",
-      "ProfileImageUrl": "https://randomuser.me/api/portraits/men/56.jpg",
+      "message" : "Hello, this is Marta Gonzalez. I need help with a situation in my home. At night, I hear scratching noises behind the walls and sometimes in the ceiling. I've also noticed tiny black droppings in the pantry and some chewed corners on food packaging. There's a strange, musky smell in certain areas of the kitchen. Can you advise me on what to do?",
+      "senderName" : "Marta Gonzalez",
+      "PestName" : "Mice",
+      "ProfileImageUrl" : "https://randomuser.me/api/portraits/women/40.jpg"
     },
   ]
 }
