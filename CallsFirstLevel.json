@@ -66,16 +66,5 @@
       "PestName": "Bees",
       "ProfileImageUrl": "https://randomuser.me/api/portraits/men/56.jpg",
     },
-    {
-      "negativeReply": {
-        "message": "You are wrong!",
-        "ProfileImageUrl" : "https://randomuser.me/api/portraits/women/40.jpg",
-        "senderName" : "Marta Gonzalez",
-      },
-      "message" : "Hello, this is Marta Gonzalez. I need help with a situation in my home. At night, I hear scratching noises behind the walls and sometimes in the ceiling. I've also noticed tiny black droppings in the pantry and some chewed corners on food packaging. There's a strange, musky smell in certain areas of the kitchen. Can you advise me on what to do?",
-      "senderName" : "Marta Gonzalez",
-      "PestName" : "Mice",
-      "ProfileImageUrl" : "https://randomuser.me/api/portraits/women/40.jpg"
-    },
   ]
 }
