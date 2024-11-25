@@ -1,6 +1,12 @@
 {
   "calls": [
     {
+      "positiveReply":  
+        {
+          "message": "todo Bien",
+          "ProfileImageUrl" : "https://randomuser.me/api/portraits/women/82.jpg",
+          "senderName" : "Grace Johnson",
+         },
       "negativeReply": {
         "message": "You are wrong!",
         "ProfileImageUrl": "https://randomuser.me/api/portraits/women/82.jpg",
