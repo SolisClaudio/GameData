@@ -11,5 +11,16 @@
       "PestName" : "Mold",
       "ProfileImageUrl" : "https://randomuser.me/api/portraits/women/82.jpg"
     },
+    {
+      "negativeReply" : {
+        "message" : "You are wrong!",
+        "ProfileImageUrl" : "https://randomuser.me/api/portraits/men/37.jpg",
+        "senderName" : "Ricardo Lopez",
+      },
+      "message" : "Hi, I'm Ricardo Lopez, and I wanted to report something strange that I've noticed in my house. Every time I turn on the kitchen light at night, I see something small and fast running towards the corners or under the sink. I have also found food scraps with small holes and an unpleasant smell near the garbage disposal. I don't know how to get rid of them, and they seem to be increasing. I hope you can help me. Thank you.",
+      "senderName" : "Ricardo Lopez",
+      "PestName" : "Cockroaches",
+      "ProfileImageUrl" : "https://randomuser.me/api/portraits/men/37.jpg"
+    },
   ]
 }
