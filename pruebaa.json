@@ -1,18 +1,14 @@
 {
   "calls": [
     {
-      "positiveReply":  
+      
+      "negativeReply": 
         {
-          "message": "todo Bien",
-          "ProfileImageUrl" : "https://randomuser.me/api/portraits/women/82.jpg",
-          "senderName" : "Grace Johnson",
-         },
-      "negativeReply": {
-        "message": "You are wrong!",
-        "ProfileImageUrl": "https://randomuser.me/api/portraits/women/82.jpg",
-        "senderName": "Sofia Hernandez",
-      }
-      "message": "Hi, my name is Sofia Hernandez. I'm calling because there's a strong musty smell in my bathroom and some blackish-green stains appearing on the walls and ceiling. The paint is bubbling, and I feel the air is damp in that area. I’m worried this might affect my health. Could you guide me on what steps to take?",
+          "message": "jjj",
+          "ProfileImageUrl" : "jjj",
+          "senderName" : "hjh",
+        },
+      "message": "",
       "senderName": "Sofia Hernandez",
       "PestName": "Mold",
       "ProfileImageUrl": "https://randomuser.me/api/portraits/women/82.jpg",
