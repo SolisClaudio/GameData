@@ -1,0 +1,49 @@
+{
+  "calls": [
+    {
+      "negativeReply": {
+        "message": "Hi, this is John Carter. That's not the case. No shiny, moving objects have been reported after rainstorms. Perhaps the problem isn't related to the weather.",
+        "ProfileImageUrl": "https://snapheadshots.com/_ipx/f_webp/images/new-first-img-6-b.png",
+        "senderName": "John Carter"
+      },
+      "message": "Hi, this is John Carter. I'm calling about a really odd situation in my yard. After every rainstorm, I find these shiny, spoon-like objects scattered around. At first, I thought it was debris, but when I tried picking one up, it wriggled slightly, like it was alive. They seem to cluster near the flowerbeds and disappear after a few hours, leaving no trace. My neighbors haven't seen anything similar, and I'm starting to think I'm imagining it. Could you help me figure out what's going on?",
+      "senderName": "John Carter",
+      "PestName": "Rain of Living Spoons",
+      "ProfileImageUrl": "https://snapheadshots.com/_ipx/f_webp/images/new-first-img-6-b.png",
+    },
+    {
+      "negativeReply": {
+        "message": "Hello, I'm Rigoberta Menchú. Hmm, that doesn't fit. There haven't been reports of plants appearing in unusual places. Could the source of the issue be something more ordinary?",
+        "ProfileImageUrl" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRh01QuKD9y-MOk116t3pni9vERJc6sRShEhY4tomdYQ89aV0kKUNV7FWm-xr7vv1mEc7UNAB27DZBv8izS6-efQA",
+        "senderName" : "Marta Gonzalez",
+      },
+      "message" : "Hello, I'm Rigoberta Menchú. I have a peculiar issue at home. I keep finding cactus plants in places where I know I didn't put them. It started with one in my garage, then another in the bathroom. Last night, I woke up to find a small cactus on my nightstand that wasn't there before. These aren't my plants—they're slightly different, with unusual spines that seem to shift direction when I look away. It's unsettling, and I don't know how they're appearing. What could this mean?",
+      "senderName" : "Rigoberta Menchú",
+      "PestName" : "Cactus Teleporters",
+      "ProfileImageUrl" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRh01QuKD9y-MOk116t3pni9vERJc6sRShEhY4tomdYQ89aV0kKUNV7FWm-xr7vv1mEc7UNAB27DZBv8izS6-efQA"
+    },
+    {
+      "negativeReply": {
+        "message": "Good afternoon, this is Carlos Fernandez. That doesn't seem right. There's no mention of shadowy figures or cold spots in the area. Could it be something less ethereal?",
+        "ProfileImageUrl": "https://bn02pap001files.storage.live.com/y4mGgCb0cJNAbEHZzoFANDuR84ciHW97SR1jlQrwmDVboFyBXU5akx3S5nT8fj2D4_9StRooIqRCMYsYjvtg7Yd6J2ELVBNUz33hbwM3eejLW8pOnaKVeoowIi8IFtsXbFedeTeWk9q-Qyk1GvvZ0-XcUT9E2zwcoj2MGuyIpzLUYZq0jb9jWs-ZE0AZ7mhUlw_jb6Qe8gkOhKvjskAtc-6OGXrnr8GY7zJG0hCAX8Gi84?encodeFailures=1&width=570&height=565",
+        "senderName": "Claudio Solis",
+      },
+      "message": "Good afternoon, this is Claudio Solis. I've noticed something eerie in my living room over the past few nights. When the lights are dim, I see faint shapes moving through the air, like trails of dense smoke, but they don't dissipate. They linger, and when I approach, the air feels colder in those spots. Once, I thought I saw a hand-like form reaching toward me before it dissolved when I turned on a lamp. There's no smell of smoke or fire, and nothing seems damaged, but it's unnerving. Should I be concerned?",
+      "senderName": "Claudio Solis",
+      "PestName": "Smoke Men",
+      "ProfileImageUrl": "https://bn02pap001files.storage.live.com/y4mGgCb0cJNAbEHZzoFANDuR84ciHW97SR1jlQrwmDVboFyBXU5akx3S5nT8fj2D4_9StRooIqRCMYsYjvtg7Yd6J2ELVBNUz33hbwM3eejLW8pOnaKVeoowIi8IFtsXbFedeTeWk9q-Qyk1GvvZ0-XcUT9E2zwcoj2MGuyIpzLUYZq0jb9jWs-ZE0AZ7mhUlw_jb6Qe8gkOhKvjskAtc-6OGXrnr8GY7zJG0hCAX8Gi84?encodeFailures=1&width=570&height=565"
+    },
+    
+    {
+      "negativeReply": {
+        "message": "Hi, this is Emma Wilson. Not quite. There's no indication of toys moving or bite marks on them. Maybe it's not related to objects at all?",
+        "ProfileImageUrl": "https://snapheadshots.com/_ipx/f_webp/images/new-first-img-3-b.png",
+        "senderName": "Emma Wilson"
+      },
+      "message": "Hi, this is Emma Wilson. I'm dealing with something strange involving my child's toys. They keep disappearing from their usual places, like shelves and the toy box. I end up finding them hidden under the couch, clustered together, almost like they’ve been dragged there. Some of the toys, especially the softer ones, have tiny bite marks on them. I don't have pets, and there's no sign of mice. It's as if the toys are moving on their own or being taken. Is there an explanation for this?",
+      "senderName": "Emma Wilson",
+      "PestName": "Hungry Toy Colony",
+      "ProfileImageUrl": "https://snapheadshots.com/_ipx/f_webp/images/new-first-img-3-b.png",
+    },
+  ]
+}
