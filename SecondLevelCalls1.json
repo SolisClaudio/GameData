@@ -14,13 +14,13 @@
     {
       "negativeReply": {
         "message": "Hello, I'm Rigoberta Menchú. Hmm, that doesn't fit. There haven't been reports of plants appearing in unusual places. Could the source of the issue be something more ordinary?",
-        "ProfileImageUrl" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRh01QuKD9y-MOk116t3pni9vERJc6sRShEhY4tomdYQ89aV0kKUNV7FWm-xr7vv1mEc7UNAB27DZBv8izS6-efQA",
+        "ProfileImageUrl" : "https://randomuser.me/api/portraits/women/1.jpg",
         "senderName" : "Marta Gonzalez",
       },
       "message" : "Hello, I'm Rigoberta Menchú. I have a peculiar issue at home. I keep finding cactus plants in places where I know I didn't put them. It started with one in my garage, then another in the bathroom. Last night, I woke up to find a small cactus on my nightstand that wasn't there before. These aren't my plants—they're slightly different, with unusual spines that seem to shift direction when I look away. It's unsettling, and I don't know how they're appearing. What could this mean?",
       "senderName" : "Rigoberta Menchú",
       "PestName" : "Cactus Teleporters",
-      "ProfileImageUrl" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRh01QuKD9y-MOk116t3pni9vERJc6sRShEhY4tomdYQ89aV0kKUNV7FWm-xr7vv1mEc7UNAB27DZBv8izS6-efQA"
+      "ProfileImageUrl" : "https://randomuser.me/api/portraits/women/1.jpg"
     },
     {
       "negativeReply": {
@@ -37,13 +37,13 @@
     {
       "negativeReply": {
         "message": "Hi, this is Emma Wilson. Not quite. There's no indication of toys moving or bite marks on them. Maybe it's not related to objects at all?",
-        "ProfileImageUrl": "https://snapheadshots.com/_ipx/f_webp/images/new-first-img-3-b.png",
+        "ProfileImageUrl": "https://randomuser.me/api/portraits/women/66.jpg",
         "senderName": "Emma Wilson"
       },
       "message": "Hi, this is Emma Wilson. I'm dealing with something strange involving my child's toys. They keep disappearing from their usual places, like shelves and the toy box. I end up finding them hidden under the couch, clustered together, almost like they’ve been dragged there. Some of the toys, especially the softer ones, have tiny bite marks on them. I don't have pets, and there's no sign of mice. It's as if the toys are moving on their own or being taken. Is there an explanation for this?",
       "senderName": "Emma Wilson",
       "PestName": "Hungry Toy Colony",
-      "ProfileImageUrl": "https://snapheadshots.com/_ipx/f_webp/images/new-first-img-3-b.png",
+      "ProfileImageUrl": "https://randomuser.me/api/portraits/women/66.jpg",
     },
   ]
 }
