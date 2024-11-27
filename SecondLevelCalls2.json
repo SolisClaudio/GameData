@@ -1,0 +1,49 @@
+{
+  "calls": [
+    {
+      "negativeReply": {
+        "message": "Hello, this is Julia Martin. No, that's not the problem. There's no distortion or strange echoes reported. Look closer—what other clues might lead you to the right answer?",
+        "ProfileImageUrl": "https://randomuser.me/api/portraits/women/0.jpg",
+        "senderName": "Julia Martin"
+      },
+      "message": "Hello, this is Julia Martin. I'm experiencing something very odd in my home. Whenever I speak in certain rooms, particularly the hallway and the study, my words echo back in a distorted way. It doesn't happen anywhere else, and it feels like the echo takes on a tone I didn't use. Sometimes, I hear fragments of words or whispers that don't match anything I said. Yesterday, I heard my name whispered back to me, but I was home alone. I don't know if it's the acoustics or something else. Can you help me understand what's happening?",
+      "senderName": "Julia Martin",
+      "PestName": "Echo Rebel",
+      "ProfileImageUrl": "https://randomuser.me/api/portraits/women/0.jpg",
+    },
+    {
+      "negativeReply": {
+        "message": "Hi, this is Noelia Pompa. Hmm, that doesn't seem to fit. There's no mention of toys disappearing, bite marks, or piles of objects being moved in this situation. Maybe the problem is related to something entirely different. Take another look at the clues and try again!",
+        "ProfileImageUrl" : "https://akamai.sscdn.co/letras/385x349/fotos/f/8/1/7/f817fc33ebff390c450a446cf89dd602.jpg",
+        "senderName" : "Noelia Pompa",
+      },
+      "message" : "Hi, this is Noelia Pompa. I've noticed something peculiar with my child's toys. The softer toys, like stuffed animals, keep disappearing from their usual spots, and I've found a pile of them under the bed. What's strange is that they seem to have small tears or bite marks, as if something has been nibbling on them. It's creepy because I know we don't have pets, and there's no sign of rodents. Could it be something unusual?",
+      "senderName" : "Noelia Pompa",
+      "PestName" : "Hungry Toy Colony",
+      "ProfileImageUrl" : "https://akamai.sscdn.co/letras/385x349/fotos/f/8/1/7/f817fc33ebff390c450a446cf89dd602.jpg"
+    },
+    {
+      "negativeReply": {
+        "message": "Good evening, this is Lionel Messi. Hmm, that doesn't match the symptoms I'm describing. There's no mention of earthy smells, heavy air, or fuzzy dark spots on the walls. It might help to think about other signs or environments where this issue could occur. Give it another shot—you'll figure it out!",
+        "ProfileImageUrl": "https://fcb-abj-pre.s3.amazonaws.com/img/jugadors/MESSI.jpg",
+        "senderName": "Claudio Solis",
+      },
+      "message": "Good evening, this is Lionel Messi. I've been noticing something odd in my bathroom recently. The air feels unusually damp, and there's a persistent smell that's hard to describe—it's not quite bad, but definitely noticeable. There are some dark patches forming on the walls and ceiling, but they're not spreading evenly, and they feel different to the touch. I don't know if this is something normal or if I should be concerned. Can you help me figure it out?",
+      "senderName": "Lionel Messi",
+      "PestName": "Mold",
+      "ProfileImageUrl": "https://fcb-abj-pre.s3.amazonaws.com/img/jugadors/MESSI.jpg"
+    },
+    
+    {
+      "negativeReply": {
+        "message": "Good evening, I'm Amanda Reyes. That's not the issue here. There's no sign of shadowy movements or anything resembling smoke trails. Perhaps it's something more tangible causing the problem. Keep looking and give it another try!",
+        "ProfileImageUrl": "https://randomuser.me/api/portraits/women/1.jpg",
+        "senderName": "Amanda Reyes"
+      },
+      "message": "Good evening, I'm Amanda Reyes. I've been seeing odd movements in my house at night. When I dim the lights, faint shadowy trails move across the walls, but there's no source of smoke or anything burning. It's almost like figures forming and then fading away when I turn the lights back on. It's unsettling. Do you think this could be a sign of something serious?",
+      "senderName": "Amanda Reyes",
+      "PestName": "Smoke Men",
+      "ProfileImageUrl": "https://randomuser.me/api/portraits/women/1.jpg",
+    },
+  ]
+}
