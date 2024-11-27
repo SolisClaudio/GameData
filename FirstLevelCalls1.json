@@ -2,7 +2,7 @@
   "calls": [
     {
       "negativeReply": {
-        "message" : "You are wrong!",
+        "message" : "Hi, this is Sofia Hernandez. That’s not the issue here. There’s no indication that the problem involves musty smells, damp air, or blackish-green stains. Take a closer look at the details—maybe the signs point to something else entirely. Keep trying!",
         "ProfileImageUrl" : "https://randomuser.me/api/portraits/women/82.jpg",
         "senderName" : "Sofia Hernandez",
       },
@@ -13,7 +13,7 @@
     },
     {
       "negativeReply" : {
-        "message" : "You are wrong!",
+        "message" : "Hi, this is Ricardo Lopez. That’s not quite right. There’s no sign of small, fast movements or food scraps with holes in this case. Perhaps the issue lies elsewhere—take a closer look at the details and try again!",
         "ProfileImageUrl" : "https://randomuser.me/api/portraits/men/37.jpg",
         "senderName" : "Ricardo Lopez",
       },
@@ -24,7 +24,7 @@
     },
     {
       "negativeReply": {
-        "message": "You are wrong!",
+        "message": "Hi, this is Clara Martinez. That doesn’t seem to be the issue. There’s no mention of hollow wood, tiny tunnels, or small winged insects in this case. Maybe the problem is related to something else. Take another look and try again!",
         "ProfileImageUrl": "https://randomuser.me/api/portraits/women/41.jpg",
         "senderName": "Clara Martinez",
       },
