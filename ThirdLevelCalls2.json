@@ -1,0 +1,49 @@
+{
+  "calls": [
+    {
+      "negativeReply": {
+        "message": "Lucas Daniels again. I can't believe you got that completely wrong. There's no way this is just a case of me imagining things! I told you these aren't just ordinary spiders, and I know exactly what I'm seeing. You completely missed the point. I told you they're like crystal, they sparkle, and they seem to be following me, but instead, you tried to chalk it up to something mundane like I'm hallucinating. I didn't call you to hear that nonsense! You need to look into this more seriously and stop ignoring the clear signs of something much worse.",
+        "ProfileImageUrl": "https://randomuser.me/api/portraits/men/76.jpg",
+        "senderName": "Lucas Daniels"
+      },
+      "message": "Hi, my name is Lucas Daniels. I've been dealing with something really strange in my home, and I'm not sure what to make of it. I've been seeing these weird, shimmering spiders around my house lately. At first, I thought they were just regular spiders, but they're completely different. They almost look like they're made of crystal, and when they move, they leave behind a trail of sparkles, like they're somehow... glowing. I've found them in random places: under the kitchen sink, in the bathroom, and even in the corners of the living room. I don't know if I'm just imagining things, but I feel like these creatures are moving closer to me. It's like they're drawn to me somehow. Could there be something unnatural going on here, or am I just losing my mind?",
+      "senderName": "Lucas Daniels",
+      "PestName": "Crystal Spiders",
+      "ProfileImageUrl": "https://randomuser.me/api/portraits/men/76.jpg",
+    },
+    {
+      "negativeReply": {
+        "message": "This is Marissa Hayes again. I can't believe you got everything wrong! I told you about the time issues I'm dealing with, but you completely missed the point. You just gave me a generic response about 'clock malfunction' and completely ignored how the clocks are moving backward, like time is literally shifting in my house. I didn’t ask for an explanation about 'batteries' or 'resetting' things—I need you to address the real problem! How can you sit there and tell me it's just some malfunction when time is actually warping? You're completely overlooking what I'm dealing with!",
+        "ProfileImageUrl" : "https://randomuser.me/api/portraits/women/69.jpg",
+        "senderName" : "Marissa Hayes",
+      },
+      "message" : "Hello, this is Marissa Hayes. I've been experiencing something truly unsettling with time in my house. It started about a month ago when I noticed that some of the clocks in my home would show different times, and not just by a minute or two—sometimes by hours. I've tried changing the batteries, adjusting them, even resetting the time zone settings, but nothing seems to fix it. The most disturbing part is that sometimes the clocks will run backward, and I'll see it happen right before my eyes, like I'm stuck in a loop. I've tried timing things to make sure I'm not imagining it, but it's happened multiple times now. Last night, I was looking at my wall clock and suddenly it jumped back several hours. I don't know what's going on, but it's really starting to make me feel disoriented. Could you help me with this? It feels like time itself is shifting in weird ways.",
+      "senderName" : "Marissa Hayes",
+      "PestName" : "Unstable Temporalitas",
+      "ProfileImageUrl" : "https://randomuser.me/api/portraits/women/69.jpg"
+    },
+    {
+      "negativeReply": {
+        "message": "This is David Clark again. I can't believe the advice you gave me. You told me it was probably a random 'accumulation' of spoons from my kitchen drawers, but that's not what's happening. These aren't regular spoons—they're alive, and they're falling from the ceiling on their own! How could you suggest it's just normal kitchen clutter when I described them literally hovering and moving? I can't believe you missed the point entirely. I need help dealing with living spoons, not a half-baked suggestion to 'clean up' or 'rearrange' my drawers. This is completely unhelpful!",
+        "ProfileImageUrl": "https://randomuser.me/api/portraits/men/40.jpg",
+        "senderName": "David Clark",
+      },
+      "message": "Hi, my name is David Clark, and I'm calling about something incredibly bizarre that's been happening in my home. For the past few days, I've noticed strange occurrences in my kitchen. It's like spoons, but not regular spoons—living ones—have been falling from the ceiling. At first, I thought it was some sort of freak accident, but it's happening consistently. They don't just fall; they hover and almost seem to 'rain down' in patterns, as though they're following some sort of invisible force or command. It's completely unnerving. The spoons seem to be made of something… organic, almost like they're breathing. I tried to gather them, but they quickly scatter when I get too close. I'm at my wit's end. Is there any explanation for this? Could this be some kind of strange phenomenon or infestation?",
+      "senderName": "David Clark",
+      "PestName": "Rain of Living Spoons",
+      "ProfileImageUrl": "https://randomuser.me/api/portraits/men/40.jpg"
+    },
+    
+    {
+      "negativeReply": {
+        "message": "This is Martina Escobar again. I've got to say, I'm really disappointed with your response. You suggested it might be a 'simple acoustics issue' or a problem with the walls, but that's clearly not what's going on. The echoes aren't just regular sounds bouncing off surfaces—they're wrong. They're saying things I didn't say, and sometimes they even repeat stuff that's completely unrelated to what's happening at the moment. How could you tell me it's just an echo issue when the sounds are coming from thin air, and they're not even remotely accurate? I've been dealing with this for days, and your suggestion was completely off the mark. I need real help, not more confusion!",
+        "ProfileImageUrl": "https://randomuser.me/api/portraits/women/54.jpg",
+        "senderName": "Martina Escobar"
+      },
+      "message": "Hello, my name is Martina Escobar, and I've been experiencing something completely unnerving in my house lately. Every time I speak, I hear my voice echoing back to me, but it's not just a normal echo. It's like my words are being distorted and spoken back with a delay. The worst part is, the echoes don't match what I say. Sometimes they're out of sync, sometimes they're saying things I never even spoke, and sometimes they repeat sentences I said days ago. It's like the house is… responding to me. I've tried changing rooms, speaking in different tones, but the echoes follow me everywhere. I'm starting to feel like there's someone else in my house, or something is trying to communicate with me. Could you investigate this? What is happening?",
+      "senderName": "Martina Escobar",
+      "PestName": "Echo Rebel",
+      "ProfileImageUrl": "https://randomuser.me/api/portraits/women/54.jpg",
+    },
+  ]
+}

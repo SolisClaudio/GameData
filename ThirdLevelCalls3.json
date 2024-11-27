@@ -1,0 +1,26 @@
+{
+  "calls": [
+    {
+      "negativeReply": {
+        "message" : "This is Laura Jenkins, again. I can’t believe your response. You told me it was just a typical bee behavior and that it was probably due to a hive nearby, but that’s not the problem at all! These bees aren’t just behaving normally—they’re following me. I’ve tried to leave food out to see if it was attracting them, but it’s not about food. They’re around me every time I go outside. How could you dismiss the idea that something else might be going on here? You’re telling me it’s nothing, but I’m the one living it! I can’t go outside without being swarmed, and it’s like they’re deliberately tracking my movements. You didn’t even consider that it could be something more serious. I need a proper explanation, not a generic one!",
+        "ProfileImageUrl" : "https://randomuser.me/api/portraits/women/86.jpg",
+        "senderName" : "Laura Jenkins",
+      },
+      "message" : "Hi, this is Laura Jenkins, and I need some help. I’ve been noticing something really strange happening around my house recently. Every time I step outside, there are more and more bees buzzing around, but it’s not just the usual summer swarm. It’s like they’re following me. I can’t walk more than a few steps without them landing on me or circling around me. The weirdest part is that the bees are acting in ways I’ve never seen before. Some of them seem to be moving in patterns, like they’re coordinating with each other. It’s unnerving, and I don’t know if it’s some sort of hive near my house, but it’s getting really out of control. I’m starting to feel like I’m being targeted by them. Could you look into this and let me know what’s going on?",
+      "senderName" : "Laura Jenkins",
+      "PestName" : "Bees",
+      "ProfileImageUrl" : "https://randomuser.me/api/portraits/women/86.jpg"
+    },
+    {
+      "negativeReply" : {
+        "message" : "Victor Thompson here. I’m really upset right now. You told me this was just some strange phenomenon caused by lighting and shadows, but that’s not even close to what I’m experiencing. It’s not just that the shadows seem off—they’re actively defying me! They move when they shouldn’t, and sometimes they don’t follow my actions at all. How can you tell me it’s just a lighting issue when I’ve seen it happen multiple times in different rooms, under different conditions? I’m starting to think you’re not taking this seriously enough. I need a real solution, not an explanation that’s way off. Please, I want someone to investigate properly, not just dismiss it as something minor.",
+        "ProfileImageUrl" : "https://randomuser.me/api/portraits/men/80.jpg",
+        "senderName" : "Victor Thompson",
+      },
+      "message" : "Hi, my name is Victor Thompson, and I’m dealing with something unsettling in my home. For the past week, I’ve noticed that the shadows in my house don’t behave like they should. At first, it was just in the corner of my eye, but it’s getting worse. Sometimes, when I walk into a room, the shadows seem to shift in the wrong direction, like they’re not following me at all. I’ve even seen my own shadow moving away from me, as if it’s trying to escape. It’s not just a trick of the light—I’ve checked several times, and it happens even when the lights are steady. It’s almost like the shadows are... disloyal to me, like they don’t want to follow my movements. I’m not sure what this is, but it’s starting to feel like something’s wrong with the house, or worse, like something is messing with me. Can you investigate this? I don’t know what to make of it.",
+      "senderName" : "Victor Thompson",
+      "PestName" : "Disloyal Shadows",
+      "ProfileImageUrl" : "https://randomuser.me/api/portraits/men/80.jpg"
+    },
+  ]
+}
