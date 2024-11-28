@@ -2,7 +2,7 @@
   "calls": [
     {
       "negativeReply": {
-        "message": "Hello, this is Julia Martin. No, that's not the problem. There's no distortion or strange echoes reported. Look closer—what other clues might lead you to the right answer?",
+        "message": "Hello, this is Julia Martin again. I need to express my frustration. You told me the distorted echoes were probably due to irregular room acoustics and suggested some soundproofing fixes, but things have gotten even stranger. The whispers have become more distinct, and now they don't just repeat what I say—they respond. Just last night, I heard a voice say, 'We see you,' when I wasn’t even talking. I followed your advice, but it’s clear this is not a simple acoustic issue. Your response missed the mark entirely, and now I’m feeling even more unsettled in my own home. This is not okay!",
         "ProfileImageUrl": "https://randomuser.me/api/portraits/women/0.jpg",
         "senderName": "Julia Martin"
       },
@@ -36,7 +36,7 @@
     
     {
       "negativeReply": {
-        "message": "Good evening, I'm Amanda Reyes. That's not the issue here. There's no sign of shadowy movements or anything resembling smoke trails. Perhaps it's something more tangible causing the problem. Keep looking and give it another try!",
+        "message": "Hello, this is Amanda Reyes. I have to say, I’m extremely frustrated with the way you handled my issue. You said it was just a trick of the light and suggested I change my lightbulbs, but last night, things got worse. Those shadowy trails didn’t just move—they seemed to cluster in the corners of the room. It felt like they were watching me. This is no lighting issue, and your dismissal of my concerns has left me feeling unsafe in my own home. I trusted you to take this seriously, and you clearly didn’t.",
         "ProfileImageUrl": "https://randomuser.me/api/portraits/women/1.jpg",
         "senderName": "Amanda Reyes"
       },
